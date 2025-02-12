@@ -1,6 +1,6 @@
-# Intrusion Detection System 🚀
+# Intrusion Detection System using AI 🚀
 
-This project is a simple Intrusion Detection System (IDS) that monitors network traffic and detects suspicious activity.
+This project is a Intrusion Detection System (IDS) that monitors network traffic and detects suspicious activity.
 
 ## Features
 - Packet sniffing using `scapy`
